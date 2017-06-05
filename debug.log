@@ -1,0 +1,5 @@
+[1214/123050:ERROR:file_io.cc(41)] write: The pipe is being closed. (0xE8)
+[0207/181724:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0207/181724:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0215/215538:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0215/215538:ERROR:node_debugger.cc(86)] Cannot start debugger server
